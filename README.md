@@ -1,1 +1,1 @@
-# not-repository
+# no-repository
